@@ -1,22 +1,22 @@
 # sql-challenge
-sql-challenge from the data analytics bootcamp.
+##sql-challenge from the data analytics bootcamp.
 
-Please notice that there are multiple files into the repository. Inside the folder sql-challenge/EmployeeSQL/data/ you can find:
-  The data base diagrams: 
-      diaram.png
-      diagram.pdf
-  The db creation code: 
-      schemata.sql
-  The analysis file (wich contains the querys) 
-      analysis.sql
-  And the files used to create the database: 
-      analysis.sql
-      departments.csv
-      dept_emp.csv
-      dept_manager.csv
-      employees.csv
-      salaries.csv
-      titles.csv
+#Please notice that there are multiple files into the repository. Inside the folder sql-challenge/EmployeeSQL/data/ you can find:
+##  The data base diagrams: 
+##      diaram.png
+##      diagram.pdf
+##  The db creation code: 
+##      schemata.sql
+##  The analysis file (wich contains the querys) 
+##      analysis.sql
+##  And the files used to create the database: 
+##      analysis.sql
+##      departments.csv
+##      dept_emp.csv
+##      dept_manager.csv
+##      employees.csv
+##     salaries.csv
+##      titles.csv
 
 
 Some sources of information to accomplish the challenge: 
